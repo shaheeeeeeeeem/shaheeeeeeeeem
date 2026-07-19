@@ -1,6 +1,6 @@
 # Mohamed Shaheem
 
-Second-year Mechanical and Aerospace Engineering student at IIT Hyderabad, pivoting into Machine Learning and AI. I'm building an end-to-end portfolio spanning classical time-series forecasting, graph neural networks, and NLP, with an emphasis on honest evaluation over polished-looking numbers — real holdout validation, controlled baseline comparisons, and reported limitations.
+Third-year Mechanical and Aerospace Engineering student at IIT Hyderabad, pivoting into Machine Learning and AI. I'm building an end-to-end portfolio spanning classical time-series forecasting, graph neural networks, and NLP, with an emphasis on honest evaluation over polished-looking numbers — real holdout validation, controlled baseline comparisons, and reported limitations.
 
 Currently looking for **ML/AI internships**.
 
