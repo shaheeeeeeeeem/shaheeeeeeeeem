@@ -51,15 +51,6 @@ A from-scratch Transformer (19M params) vs. fine-tuned BART on CodeSearchNet Pyt
 
 ---
 
-## GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shaheeeeeeeeem&show_icons=true&theme=github_dark&hide_border=true&count_private=false" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shaheeeeeeeeem&show_icons=true&theme=default&hide_border=true&count_private=false" alt="Mohamed Shaheem's GitHub stats" />
-</picture>
-
----
-
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shaheem-71361a249/)
