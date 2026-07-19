@@ -4,8 +4,6 @@ Second-year Mechanical and Aerospace Engineering student at IIT Hyderabad, pivot
 
 Currently looking for **ML/AI internships**.
 
-Outside coursework: Class Representative (MAE department), Sponsorship Domain Head for Milan (IIT Hyderabad's cultural fest), and Outreach & Collaborations Coordinator at TEDxIITHyderabad.
-
 ---
 
 ## Featured Projects
